@@ -24,8 +24,8 @@ I'm passionate about data science and its applications in solving real-world pro
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
 
-- Email: [your.email@example.com](mailto:safwat.jhn@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [safwat.jhn@gmail.com]
+- LinkedIn: [www.linkedin.com/in/safwat-salah-edin-78ab9aab]
 
 
 Happy coding!
